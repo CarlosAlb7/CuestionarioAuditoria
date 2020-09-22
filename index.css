@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+#Menu li 
+{
+  padding:0;  
+  display: inline;
+  
+}
+#Menu a
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-decoration:none;
+   float:left;
+   padding:25px;
+   
+   color: white;
+
+}
+#Menu 
+{
+max-width: 90000px;
+min-height: 72px;
+background: #000000;
+margin:0 auto
+
+}
+#Menu li a:hover{
+    background-color:blue;
+   
+    padding-bottom: 28px;
+}
+
+
