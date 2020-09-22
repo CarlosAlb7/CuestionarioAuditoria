@@ -33,4 +33,9 @@ margin:0 auto
     padding-bottom: 28px;
 }
 
-
+@media screen and (max-widht: 800px)
+{
+    body{
+        background-color: #000000;
+    }
+}
